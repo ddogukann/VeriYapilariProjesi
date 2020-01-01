@@ -1,0 +1,43 @@
+﻿  veriproje1.cpp
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(121,14): warning C4244: 'başlatılıyor': '_Rep' - 'double' dönüşümü; veri kaybı olabilir
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(121,14): warning C4244:         with
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(121,14): warning C4244:         [
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(121,14): warning C4244:             _Rep=__int64
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(121,14): warning C4244:         ]
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(146,15): warning C4244: 'başlatılıyor': '_Rep' - 'double' dönüşümü; veri kaybı olabilir
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(146,15): warning C4244:         with
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(146,15): warning C4244:         [
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(146,15): warning C4244:             _Rep=__int64
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(146,15): warning C4244:         ]
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(198,14): warning C4244: 'başlatılıyor': '_Rep' - 'double' dönüşümü; veri kaybı olabilir
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(198,14): warning C4244:         with
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(198,14): warning C4244:         [
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(198,14): warning C4244:             _Rep=__int64
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(198,14): warning C4244:         ]
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(220,15): warning C4244: 'başlatılıyor': '_Rep' - 'double' dönüşümü; veri kaybı olabilir
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(220,15): warning C4244:         with
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(220,15): warning C4244:         [
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(220,15): warning C4244:             _Rep=__int64
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(220,15): warning C4244:         ]
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(272,15): warning C4244: 'başlatılıyor': '_Rep' - 'double' dönüşümü; veri kaybı olabilir
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(272,15): warning C4244:         with
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(272,15): warning C4244:         [
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(272,15): warning C4244:             _Rep=__int64
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(272,15): warning C4244:         ]
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(294,16): warning C4244: 'başlatılıyor': '_Rep' - 'double' dönüşümü; veri kaybı olabilir
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(294,16): warning C4244:         with
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(294,16): warning C4244:         [
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(294,16): warning C4244:             _Rep=__int64
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(294,16): warning C4244:         ]
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(347,15): warning C4244: 'başlatılıyor': '_Rep' - 'double' dönüşümü; veri kaybı olabilir
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(347,15): warning C4244:         with
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(347,15): warning C4244:         [
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(347,15): warning C4244:             _Rep=__int64
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(347,15): warning C4244:         ]
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(370,16): warning C4244: 'başlatılıyor': '_Rep' - 'double' dönüşümü; veri kaybı olabilir
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(370,16): warning C4244:         with
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(370,16): warning C4244:         [
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(370,16): warning C4244:             _Rep=__int64
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(370,16): warning C4244:         ]
+C:\Users\doguk\source\repos\veriproje1\veriproje1\veriproje1.cpp(383,13): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  veriproje1.vcxproj -> C:\Users\doguk\source\repos\veriproje1\Debug\veriproje1.exe
